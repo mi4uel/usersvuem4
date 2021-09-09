@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "descripcion": "harina",
+        "precio": 50.00,
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "descripcion": "coca cola",
+        "precio": 20.00,
+        "stock": 300
+    },
+    {
+        "id": 3,
+        "descripcion": "salsa",
+        "precio": 60.00,
+        "stock": 400
+    },
+    {
+        "id": 4,
+        "descripcion": "carne",
+        "precio": 60.00,
+        "stock": 400
+    },
+
+{
+  "telefono": 2615785810,
+  "email": "melina_cagnoni@hotmail.com",
+  "ubicacion": "Mendoza, Argentina",
+  "web": "www.craftdisenocreativo.com"
+    
+},
+{
+    "illustrator": "100%",
+    "Photosop": "50%",
+    "InDesign": "80%",
+    "After Effects": "40%",
+    "Premiere": "40%",
+    "Vegas": "50%"
+  },
+{
+    "Cafe el duende": "Rediseño de carta y escritura en braile",
+    "P&D": "Branding completo de marca",
+    "Extasis": "Creación de marca corporativa",
+    "Defensa Civil de Las Heras": "Recreación de marca para aplicación sobre Imán vehicular",
+    "Manifiesto Mercado Creativo": "Animación 2D",
+    "Pandora": "Folletin Oficial a nivel Nacional"
+},
+{
+    "Instituto Manuel Belgrano": "Tecnico Superior en Diseño Multimedial"
+}
+]
